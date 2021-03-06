@@ -1,0 +1,38 @@
+div {
+    border: 20px solid #000; /* this is short hand for setting the borders width, shape, type, and color */
+    display: inline-block; /* a way of positioning elements */
+    min-width: 20em; /* the two min-styles make th shape of the divs */
+    min-height: 25em;
+    border-radius: 50%; /* makes it round */
+    border-left-color: transparent; /*makes it transparent on whatever side it's on, like so */
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+}
+
+#red {
+    border-top-color: red;
+}
+
+#orange {
+    border-top-color: orange;
+}
+
+#yellow {
+    border-top-color: yellow;
+}
+
+#green {
+    border-top-color: green;
+}
+
+#blue {
+    border-top-color: blue;
+}
+
+#indigo {
+    border-top-color: indigo;
+}
+
+#violet {
+    border-top-color: violet;
+}
